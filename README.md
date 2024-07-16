@@ -11,5 +11,5 @@ Modified Tic Tac Toe where each player's fourth move causes their first move to 
 
 ## License
 
-[MIT]((LICENSE))
+[MIT](LICENSE)
 
