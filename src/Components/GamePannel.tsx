@@ -76,6 +76,7 @@ export default function GamePannel() {
         if (game.winner && fireworksInstance) {
             fireworksInstance.run({ speed: 1, duration: 3000 });
             setTimeout(() => fireworksInstance.stop(), 5000);
+
         }
     }, [game.winner, fireworksInstance]);
     useEffect(() => {
